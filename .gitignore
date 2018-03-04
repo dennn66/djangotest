@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+/static
+.DS_Store
+/bin
+/include  
+/lib*
+/pip-selfcheck.json
+/pyvenv.cfg
+
